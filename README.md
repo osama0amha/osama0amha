@@ -1,10 +1,38 @@
-<h1 align="center">Hi 👋, I'm Osama Amha</h1>
-<h3 align="center">A Wep developer from Moroco</h3>
+# Ali Hejazizo
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/osama-amha-5425aa2b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama0amha" height="30" width="40" /></a>
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/"target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/216/489/png-transparent-laravel-software-framework-php-web-application-redes-sociais-angle-text-rectangle-thumbnail.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/osama amha/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hejazizo@ualberta.ca)
+
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
+👋 Hi, I'm Oussama Amha – Backend Developer!
+
+With 4 years of experience in backend development, I specialize in building robust
+
+What I Can Do:
+
+🔧 API Development: Crafting seamless and efficient APIs for smooth integration.
+🛠️ Database Design: Structuring and optimizing databases for performance and reliability.
+🧩 Server-Side Logic: Implementing complex business logic to enhance functionality.
+🚀 Performance Optimization: Boosting application speed and efficiency for a better user experience.
+🔒 Security: Ensuring  systems are secure from vulnerabilities and breaches.
+
+
+### 🖥 Skills
+
+- backend developer
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-php-05122A?style=flat-square&logo=php&color=353535) ![Bootstrap](https://img.shields.io/badge/-linux-05122A?style=flat-square&logo=linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-git-05122A?style=flat-square&logo=git&color=353535) ![Bootstrap](https://img.shields.io/badge/-laravel-05122A?style=flat-square&logo=laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-css%20-05122A?style=flat-square&logo=css&color=353535) ![Bootstrap](https://img.shields.io/badge/-html-05122A?style=flat-square&logo=html&color=353535) ![Bootstrap](https://img.shields.io/badge/-javascripte-05122A?style=flat-square&logo=javascripte&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
