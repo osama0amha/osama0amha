@@ -1,4 +1,4 @@
-# Osama Amha
+# 👋 Hi, I'm Oussama Amha
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,17 +8,15 @@
 
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/osama0amha)
 
-👋 Hi, I'm Oussama Amha – Backend Developer!
 
-With 4 years of experience in backend development, I specialize in building robust
 
 What I Can Do:
 
 🔧 API Development: Crafting seamless and efficient APIs for smooth integration.
-🛠️ Database Design: Structuring and optimizing databases for performance and reliability.
-🧩 Server-Side Logic: Implementing complex business logic to enhance functionality.
-🚀 Performance Optimization: Boosting application speed and efficiency for a better user experience.
-🔒 Security: Ensuring  systems are secure from vulnerabilities and breaches.
+🛠️ Database Design: Structuring and optimizing databases for performance and reliability./n
+🧩 Server-Side Logic: Implementing complex business logic to enhance functionality./n
+🚀 Performance Optimization: Boosting application speed and efficiency for a better user experience./n
+🔒 Security: Ensuring  systems are secure from vulnerabilities and breaches./n
 
 
 ### 🖥 Skills
