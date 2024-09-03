@@ -18,7 +18,6 @@ What I Can Do:
 
 
 ### 🖥 Skills
-
 - backend developer
 ### ⚙️ Tech Stack
 
