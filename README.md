@@ -13,10 +13,18 @@
 What I Can Do:
 
 🔧 API Development: Crafting seamless and efficient APIs for smooth integration.
-🛠️ Database Design: Structuring and optimizing databases for performance and reliability./n
-🧩 Server-Side Logic: Implementing complex business logic to enhance functionality./n
-🚀 Performance Optimization: Boosting application speed and efficiency for a better user experience./n
-🔒 Security: Ensuring  systems are secure from vulnerabilities and breaches./n
+
+
+🛠️ Database Design: Structuring and optimizing databases for performance and reliability.
+
+
+🧩 Server-Side Logic: Implementing complex business logic to enhance functionality.
+
+
+🚀 Performance Optimization: Boosting application speed and efficiency for a better user experience.
+
+
+🔒 Security: Ensuring  systems are secure from vulnerabilities and breaches.
 
 
 ### 🖥 Skills
